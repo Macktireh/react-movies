@@ -106,8 +106,8 @@
       font-size: 1.025rem;
     }
     &:active {
-      transform: scale(1.05) translateX(-50%);
-      color: $black;
+      transform: scale(0.98) translateX(-50%);
+      // color: $black;
     }
   }
 }
